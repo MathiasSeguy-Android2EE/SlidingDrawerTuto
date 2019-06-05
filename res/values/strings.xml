@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SlidingDrawerTuto!</string>
+    <string name="app_name">SlidingDrawerTuto</string>
+    <string name="slide_it">Slide it to select an avatar</string>
+</resources>
